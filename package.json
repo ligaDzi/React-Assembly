@@ -1,5 +1,5 @@
 {
-  "name": "react_course_js_ru_08_06_17",
+  "name": "react_",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/romabelka/js_ru_08_06_17"
+    "url": "git+https://github.com/ligaDzi"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/romabelka/js_ru_08_06_17"
+    "url": "https://github.com/ligaDzi"
   },
-  "homepage": "https://github.com/romabelka/js_ru_08_06_17",
+  "homepage": "https://github.com/ligaDzi",
   "devDependencies": {
     "babel-core": "^6.13.2",
     "babel-loader": "^6.2.4",
@@ -30,31 +30,30 @@
     "css-loader": "^0.28.4",
     "style-loader": "^0.18.2",
     "webpack": "^2.0.0",
+    "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^2.0.0"
   },
   "dependencies": {
     "autoprefixer-loader": "^3.2.0",
-    "bootstrap": "^4.3.1",
-    "connect-mongo": "^3.0.0",
-    "express-session": "^1.16.2",
-    "history": "^4.6.3",
-    "immutable": "^4.0.0-rc.12 ",
+    "history": "^4.10.1",
+    "immutable": "^3.8.2",
     "json-loader": "^0.5.7",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.11.0",
     "prop-types": "^15.5.10",
-    "react": "^16.8.6",
-    "react-bootstrap": "^1.0.0-beta.10",
+    "react": "^16.8.5",
     "react-day-picker": "^6.0.3",
-    "react-dom": "^16.0.0",
-    "react-redux": "^5.0.5",
+    "react-dom": "^16.8.5",
+    "react-redux": "^5.1.1",
     "react-router-dom": "^4.3.1",
     "react-router-redux": "^5.0.0-alpha.6",
     "react-select": "^1.0.0-rc.5",
-    "react-transition-group": "^1.2.0",
-    "redux": "^4.0.4",
-    "redux-thunk": "^2.2.0",
+    "react-transition-group": "^1.2.1",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.3.0",
     "reselect": "^3.0.1",
+    "rfs": "^8.0.1",
     "sass-loader": "^7.1.0",
+    "styled-components": "^4.4.1",
     "url-loader": "^1.1.2"
   }
 }
